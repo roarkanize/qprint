@@ -1,2 +1,2 @@
-# qprintd
-Easy printing solution for Qubes OS
+# qprint
+printing on Qubes OS
